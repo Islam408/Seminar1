@@ -4,9 +4,6 @@ package Seminar1.task1;
 
 import java.util.Random;
 
-/**
- * dz_1_1
- */
 public class task1 {
 
     public static void main(String[] args) {
